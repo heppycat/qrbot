@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-cd /home/sleepy/bale_bot
+cd /bale_bot
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
@@ -26,5 +26,5 @@ python bot.py
 ## QR Command
 
 ```text
-/qr some text here
+just send text or link and it will convert to QR
 ```
